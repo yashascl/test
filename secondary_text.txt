@@ -1,2 +1,2 @@
 this is second file is changed...
-this is second file is changed..
+this is second file is changed
